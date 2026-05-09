@@ -1,0 +1,9 @@
+{
+  "name": "Joshua Ugly",
+  "description": "A lightweight, responsive AI assistant designed for mobile. Features chat and real-time vision analysis using Gemini 3 Flash.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
